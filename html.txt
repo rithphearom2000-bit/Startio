@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; color: #333; }
+        h1 { color: #0066cc; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Appcreator24 is built this app as a Free app. This SERVICE is provided at no cost and is intended for use as is.</p>
+    <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
+    <h2>Information Collection and Use</h2>
+    <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.</p>
+    <p>The app does use third-party services that may collect information used to identify you, such as <strong>Google AdMob</strong>.</p>
+</body>
+</html>
